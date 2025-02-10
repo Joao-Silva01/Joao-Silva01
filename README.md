@@ -1,7 +1,7 @@
 # João Silva👋😁
 **` Desenvolvedor `**
 
-Sou um desenvolvedor iniciante buscando minha primeira oportunidade profissional no setor de tecnologia. Tenho dedicado tempo para criar e melhorar projetos pessoais, sempre à procura de desafios que me permitam adquirir novos conhecimentos e evoluir constantemente.
+Sou um desenvolvedor buscando minha primeira oportunidade profissional no setor de tecnologia. Tenho dedicado tempo para criar e melhorar projetos pessoais, sempre à procura de desafios que me permitam adquirir novos conhecimentos e evoluir constantemente.
 
 Sou uma pessoa de rápida adaptação, apaixonado por solucionar problemas. Acredito no poder da tecnologia para transformar ideias em soluções práticas e, por isso, busco me atualizar e enfrentar cada obstáculo que surge no meu caminho.
 
